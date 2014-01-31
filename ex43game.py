@@ -4,7 +4,10 @@
 # FINAL
 
 '''
-A text-only game written in Python. This is based on exercise 43 in Zed Shaw's free online book _Learn Python the Hard Way_. Things I have added include a way to carry and set the bomb and a countdown announcement that runs after the bomb has been set. 
+A text-only game written in Python. This is based on exercise 43 in Zed Shaw's 
+free online book _Learn Python the Hard Way_. Things I have added include a way 
+to carry and set the bomb and a countdown announcement that runs after the bomb 
+has been set. 
 
 You can run the game in Terminal by typing: python ex43game.py  
 '''
