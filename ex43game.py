@@ -1,5 +1,6 @@
 # Exercise 43: Basic Object-Oriented Analysis and Design
 # http://learnpythonthehardway.org/book/ex43.html 
+# version: Python 2.7
 
 # FINAL
 
